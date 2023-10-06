@@ -8,6 +8,7 @@
 </head>
 <body>
 	<%@ include file="inc/menu.jsp" %>
+	<h1 class="card-title">서보성</h1>
 	<%!String greeting = "Book Market Mall";
 	String tagline = "Welcome to Book Market!";%>
 	<div class="jumbotron">
